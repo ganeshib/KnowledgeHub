@@ -17,8 +17,8 @@
         android:gravity="center">
 
         <androidx.cardview.widget.CardView
-            android:layout_width="200dp"
-            android:layout_height="200dp"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
             app:cardCornerRadius="200dp"
             android:backgroundTint="#A0937D"
             android:layout_margin="10dp">
@@ -30,13 +30,13 @@
                 android:layout_gravity="center"
                 android:textSize="20dp"
                 android:textStyle="bold"
-                android:text="Android development" />
+                android:text="Android \ndevelopment" />
 
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
-            android:layout_width="200dp"
-            android:layout_height="200dp"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
             app:cardCornerRadius="200dp"
             android:backgroundTint="#A0937D"
             android:layout_margin="10dp">
@@ -48,7 +48,7 @@
                 android:layout_gravity="center"
                 android:textSize="20dp"
                 android:textStyle="bold"
-                android:text="Web development" />
+                android:text="Web \ndevelopment" />
 
         </androidx.cardview.widget.CardView>
 
@@ -62,8 +62,8 @@
         android:gravity="center">
 
         <androidx.cardview.widget.CardView
-            android:layout_width="200dp"
-            android:layout_height="200dp"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
             app:cardCornerRadius="200dp"
             android:backgroundTint="#A0937D"
             android:layout_margin="10dp">
@@ -82,8 +82,8 @@
 
 
         <androidx.cardview.widget.CardView
-            android:layout_width="200dp"
-            android:layout_height="200dp"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
             app:cardCornerRadius="200dp"
             android:backgroundTint="#A0937D"
             android:layout_margin="10dp">
@@ -95,7 +95,7 @@
                 android:layout_gravity="center"
                 android:textSize="20dp"
                 android:textStyle="bold"
-                android:text="Machine Learning" />
+                android:text="Machine \nLearning" />
 
         </androidx.cardview.widget.CardView>
 
@@ -110,8 +110,8 @@
         android:gravity="center">
 
         <androidx.cardview.widget.CardView
-            android:layout_width="200dp"
-            android:layout_height="200dp"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
             app:cardCornerRadius="200dp"
             android:backgroundTint="#A0937D"
             android:layout_margin="10dp">
@@ -130,8 +130,8 @@
 
 
         <androidx.cardview.widget.CardView
-            android:layout_width="200dp"
-            android:layout_height="200dp"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
             app:cardCornerRadius="200dp"
             android:backgroundTint="#A0937D"
             android:layout_margin="10dp">
