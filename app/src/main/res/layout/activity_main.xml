@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:backgroundTint="#A0937D"
         android:textColor="@color/black"
-        android:text="Welcome To \nLearnPro"
+        android:text="Welcome To LearnPro"
         android:textSize="30sp"
         android:textStyle="bold"
         android:layout_gravity="center"

@@ -14,7 +14,8 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:src="@drawable/database"
-        android:layout_margin="5dp"/>
+        android:layout_margin="5dp"
+        android:textColor="@color/black"/>
 
     <ScrollView
         android:layout_width="match_parent"
